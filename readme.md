@@ -1,5 +1,7 @@
 # TicketPro App
 
+The  TicketPro App is a powerful software solution built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It is designed to streamline and enhance the management of customer support tickets, enabling businesses to provide efficient and effective support to their users.
+
 ## Usage
 
 ### Set Environment Variables
